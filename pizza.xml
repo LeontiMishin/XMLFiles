@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <pizzas>
+        <pizza title="Pizza Margherita">
+            <ingredients>
+                <ingredient amount="150 ml">Tomato Pasta</ingredient>
+                <ingredient amount="80 gr">Cheese Mocarella</ingredient>
+                <ingredient amount="7 tk">Tomatoes</ingredient>
+                <ingredient amount="taste">Basilik</ingredient>
+                <ingredient amount="1 tablespoons">Olive Oil</ingredient>
+            </ingredients>
+            <steps>
+                <step>Roll out the pizza dough with a thickness of 2-3 mm, with a diameter of 32-35 cm. Put tomato sauce on the rolled out base</step>
+                <step>Now we need to bake the cake, we do this in order to make the dough crispy and well baked.</step>
+                <step>While the cake is baking, cut the mozzarella into plates 5-10 mm thick. We tear off pieces from slices of cheese and randomly lay them out on a hot base.</step>
+                <step>Tear large basil leaves in half or smaller, lay out on top of pizza, put small leaves whole. Again we send our pizza to the oven preheated to the maximum temperature for 5-10 minutes</step>
+                <step>Serve the pizza immediately while it is hot. Top with fresh basil leaves. Pizza Margherita is ready.</step>
+            </steps>
+        </pizza>
+
+        <pizza title="Pizza Siciliana">
+            <ingredients>
+                <ingredient amount="150 ml">Tomato Pasta</ingredient>
+                <ingredient amount="50 gr">Cheese Mocarella</ingredient>
+                <ingredient amount="450 gr">Flour</ingredient>
+                <ingredient amount="5 tk">Canned Tomatoes</ingredient>
+                <ingredient amount="taste">Basilik</ingredient>
+                <ingredient amount="2 tablespoons">Olive Oil</ingredient>
+            </ingredients>
+            <steps>
+                <step>Start kneading the dough. Pour the olive oil in parts, kneading the dough each time. Leave the dough for about 10 minutes</step>
+                <step>Sauce gently, without pressing with a spoon, spread over the pizza base at the rate of about 2-3 tbsp. Spoons of sauce for each pizza. Place balls or pieces of mozzarella on top.</step>
+                <step>Bake Neapolitan pizza at the highest temperature your oven can give.</step>
+                <step>Remove the finished Neapolitan pizza from the oven, drizzle with olive oil, sprinkle with Parmesan and garnish with basil leaves. Serve Neapolitan pizza immediately after cooking.</step>
+            </steps>
+        </pizza>
+
+        <pizza title="Pizza Romena">
+            <ingredients>
+                    <ingredient amount="150 ml">Tomato Pasta</ingredient>
+                    <ingredient amount="250 gr">Flour</ingredient>
+                    <ingredient amount="10 tk">Anchovy fillet</ingredient>
+                    <ingredient amount="taste">Arugula</ingredient>
+                    <ingredient amount="2 tablespoons">Olive Oil</ingredient>
+            </ingredients>
+            <steps>
+                <step>Remove the main pizza dough from the refrigerator in advance. Take the desired part of the dough and leave it on a board sprinkled with semolina or other flour, covered with a kitchen towel</step>
+                <step>Lightly brush the surface of the pizza with tomato sauce, leaving the edge of the dough clean.</step>
+                <step>Spread the mozzarella cheese and drizzle the pizza with olive oil.</step>
+                <step>Insert the pizza pan into the preheated oven, or carefully slide the pizza off the spatula onto the stone and bake until cooked through, 8 to 10 minutes</step>
+                <step>Take Roman's pizza out of the oven, top with arugula leaves and serve.</step>
+            </steps>
+        </pizza>
+    </pizzas>
+</root>
